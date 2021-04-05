@@ -10,7 +10,7 @@ import com.vaadin.ui.*;
 import com.vaadin.ui.themes.ValoTheme;
 
 @Theme(ValoTheme.THEME_NAME)
-@Title("Test-task")
+@Title("Library")
 public class MainUI extends UI {
 
     @Override
